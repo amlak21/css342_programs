@@ -1,5 +1,5 @@
 
-Program description from my professor
+Program description
 
 
 Purpose 
